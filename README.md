@@ -13,6 +13,6 @@ We hope to discuss this issue with readers and even cooperate in the follow-up s
 
 If you have any question or idea, please feel free to contact us.
 
-jinry@yahoo.com
+jinry@yahoo.com (Jinren Yao)
 or
-o.korotkova@miami.edu
+o.korotkova@miami.edu (Prof. Olga Korotkova)
