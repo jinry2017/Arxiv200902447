@@ -9,7 +9,7 @@ The manuscript is now being peer reviewed.
 Besides, a follow-up study after above paper will be obtaining the analytical expression of the coherence radius which requires proper mathematical approximations and simplying.
 To our knowledge, above requirements should be done in considering the optical inner scale and the detail expression of T-S coupled spectrum. Thus, traditional approximation methods may need to be improved.
 
-We hope to discuss this issue with the readers and even cooperate in the follow-up study.
+We hope to discuss this issue with readers and even cooperate in the follow-up study.
 
 If you have any question or idea, please feel free to contact us.
 
